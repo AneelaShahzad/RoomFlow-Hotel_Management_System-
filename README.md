@@ -40,7 +40,9 @@ Reservations
 Reservation Details View
 Available Rooms Info View
 
-### 🏗 System Architecture
+---
+
+## 🏗 System Architecture
 Role-based system (Admin & Customer hierarchy)
 Frontend communicates with backend using PHP
 MySQL database handles all data storage
@@ -60,14 +62,14 @@ http://localhost/RoomFlow
 
 ---
 
-## 🎓 Academic Note
-This project was developed as part of our DBMS semester coursework. It helped us understand real-world database design, backend integration, and full-stack web development basics.
-
----
 
 ## 📄 License
 This project is for educational purposes only and under MIT lisence.
 
 ---
 
-## Connect
+## Connect with me
+Connect with me for work collaborations and opportunities through:
+- Linkedin : https://www.linkedin.com/in/aneela-shahzad-6b7a023b0
+- gmail : aneela.techworks@gmail.com
+- Github : https://github.com/AneelaShahzad
