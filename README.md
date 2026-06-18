@@ -9,17 +9,17 @@ The project was developed as part of our DBMS coursework.
 
 ## 💻 Tech Stack
 
-Frontend: HTML, CSS, JavaScript
-Backend: PHP
-Database: MySQL
-Server Environment: XAMPP
+-Frontend: HTML, CSS, JavaScript
+-Backend: PHP
+-Database: MySQL
+-Server Environment: XAMPP
 
 ---
 
 ## ✨ Features
 
 ### 👤 User Features
-User Registration & Login
+Customer Registration & Login
 Logout functionality
 View available rooms
 Book reservations
