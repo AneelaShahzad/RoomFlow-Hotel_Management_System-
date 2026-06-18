@@ -3,7 +3,7 @@
 ## 🚀 Project Overview
 
 This system allows users to register, log in, browse available rooms, and make reservations. Admins can manage rooms, users, and bookings through a dedicated dashboard with full CRUD functionality.
-The project was developed under the guidance and instructions of our teacher as part of our DBMS coursework.
+The project was developed as part of our DBMS coursework.
 
 ---
 
